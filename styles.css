@@ -97,6 +97,10 @@
   font-weight: 500;
   line-height: 150%;
 }
+.description:focus {
+  outline: 3px solid #F4D04E;
+  outline-offset: 2px;
+}
 
 .author {
   display: flex;
